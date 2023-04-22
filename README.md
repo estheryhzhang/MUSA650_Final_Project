@@ -1,11 +1,12 @@
-# MUSA650_Final_Project
+# Road extraction from satellite imagery
 
-**Road extraction from satellite imagery**
+MUSA650 Final Project, Spring 2023
 
 # Authors
 
-Jasmine Siyu Wu (She/Her/Hers), Master of City Planning '23
-Yihan Zhang (She/Her/Hers), Master of City Planning '23
+- Jasmine Siyu Wu (She/Her/Hers), Master of City Planning '23
+
+- Yihan Zhang (She/Her/Hers), Master of City Planning '23
 
 # Data
 
